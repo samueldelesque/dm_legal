@@ -27,7 +27,7 @@ Pour la bonne compréhension des présentes, les Parties conviennent des défini
 
 **« Comptes Partenaire Enfants »**  désigne les espaces du Service dédiés à l'hébergement des différents Contenus du PARTENAIRE. Ces derniers sont administrés directement par le PARTENAIRE et sont rattachés au Compte Partenaire Parent visé ci-avant, étant entendu alors qu'ils se verront appliquer l'ensemble des termes et conditions que ceux prévus aux présentes pour ledit Compte Partenaire Parent.
 
-**« Compte(s) Partenaire** » désigne conjointement les Comptes Partenaire Enfants et le Compte Partenaire Parent.
+« **Compte(s) Partenaire** » désigne conjointement les Comptes Partenaire Enfants et le Compte Partenaire Parent.
 
 « **Player Vidéo** » désigne une technologie développée par et appartenant à DAILYMOTION, permettant la lecture sur le Service, et notamment tant sur le Site Dailymotion que sur d'autres sites Internet, de vidéogrammes (incluant tant les Contenus que les Vidéos Tierces) mis en ligne et hébergés sur le Service.
 
@@ -37,11 +37,11 @@ Pour la bonne compréhension des présentes, les Parties conviennent des défini
 
 « **Publicité Instream** » désigne les espaces publicitaires relatifs à l'insertion de publicités (notamment en pré-roll, post-roll, habillage du Player Vidéo, ad overlay) insérées au sein du Player Vidéo avant et/ou pendant et/ou après les Contenus et/ou les Vidéos Tierces diffusés sur le Service.
 
-**« Outils de Monétisation des Contenus »** désigne la possibilité accordée au PARTENAIRE de monétiser ses Contenus ainsi que de comptabiliser et partager les revenus correspondants générés par la Publicité Instream.
+« **Outils de Monétisation des Contenus** » désigne la possibilité accordée au PARTENAIRE de monétiser ses Contenus ainsi que de comptabiliser et partager les revenus correspondants générés par la Publicité Instream.
 
 «  **Outils de Mise à Disposition de Contenus Payants** » désigne les outils de vidéo à la demande payante mis à la disposition du PARTENAIRE par DAILYMOTION afin de lui permettre de  proposer au Publicla visualisation de Contenus  en contrepartie du paiement d'un prix à l'unité, d'un prix pour un groupe de vidéos ou d'un abonnement de 30 jours à un Compte Partenaire spécifique, et ce dans les conditions définies au sein des conditions générales de vente disponibles sur le Service.
 
-** « Outils de Monétisation des Sites du PARTENAIRE »**  désigne les outils mis à la disposition du PARTENAIRE par DAILYMOTION en vue de permettre l'export du Player Vidéo sur les Sites du PARTENAIRE afin de partager des revenus générés par la Publicité Instream associée aux Vidéos Tierces via le Player Vidéo intégré sur les Sites du PARTENAIRE et/ou auquel est associé la Clé de Syndication du PARTENAIRE.
+ « **Outils de Monétisation des Sites du PARTENAIRE** »  désigne les outils mis à la disposition du PARTENAIRE par DAILYMOTION en vue de permettre l'export du Player Vidéo sur les Sites du PARTENAIRE afin de partager des revenus générés par la Publicité Instream associée aux Vidéos Tierces via le Player Vidéo intégré sur les Sites du PARTENAIRE et/ou auquel est associé la Clé de Syndication du PARTENAIRE.
 
 « **Public** »  désigne toute personne ayant accès aux Contenus.
 
