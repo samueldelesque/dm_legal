@@ -1,0 +1,24 @@
+{
+  "name": "dm_legal",
+  "version": "1.0.0",
+  "description": "Markdown formatted contracts compiling into html",
+  "main": "compile.js",
+  "dependencies": {
+    "fs-extra": "^0.23.1",
+    "marked": "^0.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samueldelesque/dm_legal.git"
+  },
+  "author": "Samuel Delesque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samueldelesque/dm_legal/issues"
+  },
+  "homepage": "https://github.com/samueldelesque/dm_legal#readme"
+}
