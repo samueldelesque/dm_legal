@@ -62,8 +62,6 @@ The purpose of the TOU is to specify the terms and conditions applicable to the 
 
 PARTNER may elect, on a case-by-case basis and at its sole discretion, (i) to communicate to the Public the Content free of charge through the Video Monetization Feature associating advertising to such Content, (ii) to communicate the Content to the Public in exchange of payment through the Paid Content Feature and/or (iii) to communicate Third Party Videos on PARTNER Website through the Video Player via the Website Monetization Feature. Through acceptance of the TOU, PARTNER is considered to have agreed and acknowledged all of the terms and conditions corresponding to each of the tools and features of the PARTNER Program contained herein.
 
-
-
 **Section 2: SUBSCRIPTION**
 
 2.1. By using the PARTNER Program, either as an individual or a corporate entity, PARTNER expressly agrees to be bound by the TOU as well as to all other DAILYMOTION policies, specifically including but not limited to [DAILYMOTION Site's general Terms of Use](http://www.dailymotion.com/legal/terms) and [Privacy Policy](http://www.dailymotion.com/legal/privacy) (all collectively referred to as the " **DAILYMOTION Policies**"). If the PARTNER does not agree to any of the terms herein stated or within the DAILYMOTION Policies, the PARTNER shall not use the PARTNER Program or the DAILYMOTION Site.
@@ -78,8 +76,8 @@ By agreeing to the TOU, PARTNER will have direct access to the tools and feature
 Furthermore, the user id and password which are necessary to access the PARTNER Accounts and the tools provided by DAILYMOTION are confidential. PARTNER acknowledges that it shall be solely responsible for its user id and password associated herewith and for any possible disclosure, whether intentional or not. DAILYMOTION is not liable for any unauthorized or fraudulent use of the user id and password of PARTNER and is not liable for any unauthorized or fraudulent use of the tools provided to PARTNER.
 
 
-
 **TITLE 2: VIDEO MONETIZATION FEATURE**
+
 
 Upon use by PARTNER of the tools and features related to the Video Monetization Feature on one or more of the PARTNER Accounts, the following provisions shall apply:
 
@@ -105,8 +103,8 @@ The **Net Advertising Revenues related to the Video Monetization Feature** are d
 
 For the sake of clarity, if the export of Content through the Video Player is not made either (i) onto PARTNER Website(s) duly registered in the PARTNER Accounts, or (ii) onto an Internet website (other than the DAILYMOTION Site) with the Syndication Key having been duly associated in the export metadata of the Video Player for the Content, such export of the Content shall not benefit from the revenue sharing rate defined in Section 4.2, but will instead be applied the revenue sharing rate as defined in Section 4.1.
 
-**TITLE 3: PAID CONTENT FEATURE**
 
+**TITLE 3: PAID CONTENT FEATURE**
 
 
 Upon use by PARTNER of the tools and features related to the Paid Content Feature on one or more of its PARTNER Accounts, the following provisions shall apply:
@@ -123,8 +121,6 @@ PARTNER acknowledges and agrees that by using the Paid Content Feature an excerp
 
 The Parties agree that the number of devices through which the streaming of a purchased Content is allowed in the Paid Content Feature will be fixed at DAILYMOTION's sole discretion.
 
-
-
 **Section 6: FINANCIAL CONDITIONS APPLICABLE TO THE TOOLS AND FEATURES AVAILABLE THROUGH THE PAID CONTENT FEATURE**
 
 DAILYMOTION shall pay to PARTNER a revenue share equal to 70% (seventy percent) of the **Net Revenues related to the Paid Content Feature**.
@@ -132,9 +128,7 @@ DAILYMOTION shall pay to PARTNER a revenue share equal to 70% (seventy percent) 
 " **Net Revenues related to the Paid Content Feature**" are defined as the amounts paid by the end-users of the Paid Content Feature for Content purchased on a per video basis or per group of videos basis or for purchase of a subscription (for an unlimited access to the Content available on a PARTNER Account for a 30-day period), less (i) any applicable taxes (including VAT) (ii) and/or any amount due to a collecting society (as defined herein).
 
 
-
 **TITLE 4: WEBSITE MONETIZATION FEATURE**
-
 
 
 Upon use by PARTNER of the tools and features related to the Website Monetization Feature on one or more of the PARTNER Accounts, the following provisions shall apply:
@@ -177,7 +171,9 @@ In the event one of suspicion by DAILYMOTION of any of the above elements (witho
 
 PARTNER acknowledges and agrees that DAILYMOTION is not responsible for any data related to Third Party Video(s) provided by their relevant owners, even if such data creates discrepancy between the Third Party Video(s) embedded via the Video Player and the topic selected by PARTNER.
 
+
 **TITLE 5: GENERAL PROVISIONS**
+
 
 **Section 10: AUTHORIZATION AND LICENSE OF RIGHTS FOR ALL THE FEATURES PROVIDED TO PARTNER UNDER THE PARTNER PROGRAM**
 
@@ -219,13 +215,13 @@ However, only the conclusive account statements available within 30 (thirty) day
 
 PARTNER may choose between a classic invoicing and a self-billing method at its own discretion from the PARTNER Master Account.
 
-_13.2.A. Classic Invoicing  _
+13.2.A. Classic Invoicing
 
 PARTNER shall send to DAILYMOTION an invoice based on the amount of its share of the PARTNER Program Revenues stated within the "Invoicing" section of its PARTNER Master Account, being agreed that its invoice shall have to be compliant with the fiscal rules that are applicable to it and include (if applicable) the relevant VAT tax rate in compliance with its relevant tax status.
 
 If the total amount billed is more than an amount equal to $100 (one hundred US Dollars) whatever the currency of payment required by PARTNER for payment purpose, then the invoice shall promptly be created by PARTNER after the end of each month. Any amounts not paid shall be carried forward on a monthly basis until the minimum threshold is met.
 
-_13.2.B. _Self-Billing_
+13.2.B. Self-Billing
 
 If PARTNER has duly filled in all mandatory information necessary for payment through the online interface of the PARTNER Master Account and accepted the corresponding self-billing authorization, DAILYMOTION shall issue an invoice within 30 (thirty) days following the end of the month in the name of and on behalf of PARTNER with respect to the authorization of self-billing under the condition that the total amount due with regards to the PARTNER Program Revenues is more than an amount equal to $100 (one hundred US dollars) whatever the currency of payment required by PARTNER for payment purpose, being agreed that any amounts not paid because shall carry forward on a monthly basis as long as the minimum threshold is not met.
 
@@ -261,7 +257,7 @@ Any intellectual property rights arising from and/or in relation with the Conten
 
 14.2. Warranties
 
-_14.2.1. Warranties related to the Content_
+14.2.1. Warranties related to the Content
 
 Upon upload of the Content, PARTNER agrees to associate the Content with complete and accurate metadata necessary for the exploitation of the Content on the Service including but without limitation, the title, tags video category, duration, language, etc.
 
@@ -281,13 +277,13 @@ If PARTNER breaches any of its obligations under the TOU which results in limita
 
 PARTNER acknowledges that DAILYMOTION is authorized to provide the personal data of PARTNER upon a valid request from the relevant authorities.
 
-_14.2.2. Common warranties related to the use of the PARTNER Program_
+14.2.2. Common warranties related to the use of the PARTNER Program
 
 PARTNER undertakes (i) not to falsely increase the number of views, impression of or clicks associated with the Content and/or the Third Party Video(s)  directly or indirectly, automatically or manually, (ii) not to authorize or encourage any third party including offering any financial incentive to do the same and (iii) more generally, to comply with the rules of use of the PARTNER Program as specified in the "Frequently Asked Questions" section of the PARTNER Program and under each tool provided to PARTNER.
 
 In the event or suspicion of a false or fraudulent increase as defined in this Section 14.2.2., DAILYMOTION may, without any justification, (i) withhold payment of the falsely generated PARTNER Program Revenue, (ii) terminate the PARTNER's subscription to the Video Monetization Feature, Website Monetization Feature and/or to the Paid Content Feature and/or (iii) immediately terminate the subscription of PARTNER to the PARTNER Program without compensation to PARTNER or payment of the falsely generated PARTNER Program Revenue and without waiver or prejudice of any other of DAILYMOTION's rights or remedies.
 
-14_.2.3. _Clearance of exploitation rights_
+14.2.3. Clearance of exploitation rights
 
 PARTNER represents and warrants that it will procure and maintain during the term all third party rights and licenses which inure or may inure to the benefit of any third party rights holders including, without limitation, authors, artists, artistic directors, composers and producers and more generally to any rightful beneficiary of such rights.
 
