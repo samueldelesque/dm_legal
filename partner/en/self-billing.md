@@ -1,4 +1,5 @@
-**Authorization of Self-Billing**
+Authorization of Self-Billing
+=============================
 
 1. Partner (whether an individual or a duly incorporated entity) hereby expressly authorizes DAILYMOTION to establish and issue on its behalf and for its account the relevant invoices of the payments due by DAILYMOTION under any agreement entered into by the Partner with DAILYMOTION.
 
@@ -28,4 +29,4 @@ In this case, only the Partner can issue a corrective invoice.
 
 10. Any Partner residing outside of France expressly declares that the payments made by DAILYMOTION under this authorization are not subject to VAT or an equivalent tax or a tax based on sales in the country or territory where he is established.
 
-11.The Partner shall indemnify DAILYMOTION and keep it indemnified from and against all costs, expenses (including reasonable legal expenses) losses, damages and other liabilities (of whatever nature, whether contractual, tortious or otherwise) suffered or incurred by DAILYMOTION and arising out of or in connection with any of its obligations, representations and warranties pursuant to this authorization.
+11. The Partner shall indemnify DAILYMOTION and keep it indemnified from and against all costs, expenses (including reasonable legal expenses) losses, damages and other liabilities (of whatever nature, whether contractual, tortious or otherwise) suffered or incurred by DAILYMOTION and arising out of or in connection with any of its obligations, representations and warranties pursuant to this authorization.
