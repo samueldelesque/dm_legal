@@ -22,8 +22,6 @@ Pour la bonne compréhension des présentes, les Parties conviennent des défini
 
 « **Contenu(s)** » désigne tout vidéogramme mis à la disposition sur un ou les Comptes Partenaire par le PARTENAIRE, incluant notamment les données associées (titre, durée, …..) sous format numérisé tel que défini à l'article 17.
 
-** **
-
 **« Compte Partenaire Parent** » désigne l'espace d'hébergement de Contenus dédié au PARTENAIRE et lui permettant notamment d'administrer ses différents Comptes Partenaire Enfants. Ce Compte Partenaire Parent contient notamment  des informations désignant le nombre de vidéos disponibles en ligne sur l'ensemble desdits Comptes  Partenaire Enfants, le nombre de commentaires, le nombre de vues toutes vidéos confondues, le nombre de vues par vidéos, le nombre de favoris.
 
 **« Comptes Partenaire Enfants »**  désigne les espaces du Service dédiés à l'hébergement des différents Contenus du PARTENAIRE. Ces derniers sont administrés directement par le PARTENAIRE et sont rattachés au Compte Partenaire Parent visé ci-avant, étant entendu alors qu'ils se verront appliquer l'ensemble des termes et conditions que ceux prévus aux présentes pour ledit Compte Partenaire Parent.
@@ -46,8 +44,6 @@ Pour la bonne compréhension des présentes, les Parties conviennent des défini
 
 « **Public** »  désigne toute personne ayant accès aux Contenus.
 
-** **
-
 « **Service** »  désigne le Site Dailymotion et Player Vidéo exportable sur tout autre site Internet ainsi que toute déclinaison du Site Dailymotion sous forme d'application ou de webapp, tous accessibles (en ligne ou hors ligne) via (i) le réseau Internet (ii) tous terminaux mobiles ou portables pour lesquels la distribution du Service est assurée via tout réseau de télécommunication sans fil, par tout moyen d'accès, notamment les smartphones, tablettes et consoles de jeux ; (iii) tous supports de télévision IPTV pour lesquels la distribution du Service est assurée via une connexion Internet à haut débit sur le protocole IP (tout en permettant le contrôle du flux vidéo (pause, retour en arrière, sauvegarde…) notamment au moyen de l'intégration d'un widget sur les terminaux de télévision ou du référencement du Service sur les différents portails et réseaux de distribution de télévision par Internet ; (iv) tous supports de télévision pour lesquels la distribution du Service est assurée par câble, par voie hertzienne ou par satellite ; (v) les réseaux d'exploitation cinématographique (salles), ainsi que (vi) tous supports présents ou à venir.
 
 **« Site Dailymotion » ** désigne le site Internet disponible à l'adresse [www.dailymotion.com](http://www.dailymotion.com) ou toute autre adresse URL dédiée à la version locale du site Internet concerné pour un pays donné ( [www.dailymotion.fr](http://www.dailymotion.fr), [www.dailymotion.us](http://www.dailymotion.us), etc)
@@ -55,8 +51,6 @@ Pour la bonne compréhension des présentes, les Parties conviennent des défini
 **« Site du PARTENAIRE » ** désigne le ou les sites Internet détenus et exploités par le PARTENAIRE ou pour lesquels il s'est vu valablement confié l'éditorialisation et la gestion de la publication de ces derniers, tels que dûment enregistrés par le PARTENAIRE sur ses Comptes PARTENAIRE. Il est entendu qu'un site Internet donné sera considéré comme tel pour l'ensemble des Comptes PARTENAIRES tant qu'il sera enregistré comme Site du PARTENAIRE sur au moins un des Comptes PARTENAIRE, le cas échéant. **« Territoire » :** désigne le Monde, sauf en cas d'exclusion par le  PARTENAIRE, via l'API de DAILYMOTION,  de certains territoires au sein desquels il ne souhaite pas communiquer les Contenus au Public via son (ses) Compte(s) Partenaire.
 
 **« Vidéo(s) Tierces » :**désigne les vidéos mises en ligne sur le Site Dailymotion sur tout autre compte que les Comptes PARTENAIRE et pour lesquelles l'exportation sur un autre site que le Site Dailymotion via le Player Vidéo est autorisée sur un territoire déterminé par l'utilisateur l'ayant mise en ligne;
-
-** **
 
 **Article 1 : OBJET**
 
@@ -186,19 +180,13 @@ Les Parties conviennent que les droits concédés au titre de ces Conditions cou
 
 **Article 11 : PROMOTION**
 
-** **
-
 Une totale liberté est laissée à DAILYMOTION concernant le choix des modalités de promotion des Contenus au sein du Service et ses newsletters. A cet égard, le PARTENAIRE autorise DAILYMOTION à utiliser et/ou faire référence à ses marques et/ou logos. Toute utilisation de ces derniers, en dehors du cadre du Service et de ses newsletters fera l'objet d'une autorisation préalable du PARTENAIRE.
 
 Toute utilisation par le PARTENAIRE de la marque ou du logo DAILYMOTION doit être préalablement approuvée par celle-ci par écrit. Cette approbation pourra être effectuée par courrier électronique.
 
 Il est entendu que les Parties pourront communiquer sur l'existence de leur partenariat sous réserve de l'accord préalable des Parties quant au libellé du communiqué de presse.
 
-
-
 **Article 12 : CONDITIONS FINANCIERES COMMUNES A TOUS LES OUTILS MIS A LA DISPOSITION DU PARTENAIRE DANS LE CADRE DU PROGRAMME PARTENAIRE**
-
-** **
 
 Les Recettes Nettes Publicitaires afférentes aux Outils de Monétisation des Contenus, les Recettes Nettes afférentes aux Outils De Mise à Disposition de Contenus Payants et les Recettes Nettes Publicitaires afférentes aux Outils de Monétisation des Sites du PARTENAIRE sont définies conjointement comme les « Recettes du Programme Partenaire ».
 
@@ -206,11 +194,7 @@ Il est précisé qu'en ce qui concerne les Recettes du Programme Partenaire enca
 
 **Article 13 : SUIVI DE REMUNERATION, FACTURATION ET PAIEMENT**
 
-** **
-
 13.1 Suivi de rémunération.
-
-** **
 
 Le PARTENAIRE disposera d'une interface au sein de ses Comptes Partenaire lui permettant d'avoir accès à l'estimation pour le mois en cours et le cas échéant (i) des Recettes Nettes Publicitaires afférentes aux Outils de Monétisation des Contenus (ii) des Recettes Nettes afférentes aux Outils De Mise à Disposition de Contenus Payants et (iii) Recettes Nettes Publicitaires afférentes aux Outils de Monétisation des Sites du PARTENAIRE. Il est entendu que l'interface disponible au sein de chaque Compte Partenaire Enfant n'inclura que les informations et estimations relatives au Compte Enfant Concerné, le Compte Partenaire Parent étant le seul compte à repertorier les informations et estimations relatives à l'ensemble des Comptes Partenaire.
 
@@ -247,8 +231,6 @@ Par souci de clarté, l'auto-facturation des Recettes du Programme Partenaire ne
 13.3.4  Par souci de clarté, il est précisé que les paiements ne sauraient être effectués au bénéfice d'une autre personne (tant morale que physique) que le PARTENAIRE. A cet effet, il est donc entendu que les paiements ne pourront donc être effectués qu'au profit d'un compte bancaire ou d'un compte d'utilisation des services de paiement fournis par les prestataires mis à disposition portant le même nom que celui du PARTENAIRE.
 
 13.3.5 Il est précisé que DAILYMOTION sera libre de déduire de la part de Recettes du Programme Partenaire  à revenir au PARTENAIRE tous frais bancaires liés à une erreur, négligence ou omission du PARTENAIRE relative à la saisie et/ou transmission de ses coordonnées bancaires. En outre, les frais  d'utilisation de services de paiement fournis par les prestataires tels que  Paypal, Payoneer ou toute autre prestataire de service de paiement seront à la charge du PARTENAIRE, le cas échéant.
-
-** **
 
 13.4. Retenue à la source.
 
@@ -291,8 +273,6 @@ Le PARTENAIRE s'engage à (i) ne pas accroître artificiellement (lui-même ou p
 
 Dans l'hypothèse où l'un des cas ci-dessus serait suspecté et/ou constaté par DAILYMOTION (et ce, sans justificatif), DAILYMOTION serait alors libre (i) de ne pas verser la part de Recettes du Programme Partenaire indûment générées au profit du PARTENAIRE, (ii) de résilier l'adhésion du PARTENAIRE aux Outils de Monétisation des Contenus, aux Outils de Monétisation des Sites du PARTENAIRE et/ou aux Outils De Mise à Disposition de Contenus Payants, et/ou (iii) de résilier immédiatement et de plein droit l'adhésion du PARTENAIRE au Programme Partenaire sans indemnité ni paiement de la part de Recettes du Programme Partenaire  indûment générée au profit du PARTENAIRE, et ce sans préjudice de ses autres droits.
 
-** **
-
 14.2.3 Droits d'auteur et droits voisins
 
 Le PARTENAIRE négociera et prendra à sa charge les coûts liés à la rémunération due pour le visionnage des Contenus au titre des présentes Conditions aux artistes interprètes, aux réalisateurs, aux producteurs et plus généralement, à tous les ayants droit.
@@ -301,9 +281,9 @@ DAILYMOTION sera responsable du paiement des redevances dues aux sociétés de g
 
 En ce qui concerne les Outils De Mise à Disposition de Contenus Payants plus spécifiquement :
 
-    -Il est entendu que lesdites redevances SACEM-SDRM, si applicables, seront dÃÂ©duites des recettes brutes encaissÃÂ©es par DAILYMOTION lors du calcul des Recettes Nettes tel que dÃÂ©fini ÃÂ  l'article 6 des Conditions.ÃÂ
+    -Il est entendu que lesdites redevances SACEM-SDRM, si applicables, seront dÃÂ©duites des recettes brutes encaissÃÂ©es par DAILYMOTION lors du calcul des Recettes Nettes tel que dÃÂ©fini  l'article 6 des Conditions.
 
-    -Concernant l'ÃÂ©ventuelle redevance devant ÃÂªtre versÃÂ©e par DAILYMOTION ÃÂ  la SACD au titre de l'exploitation en VOD d'ÃÂuvres audiovisuelles, il est rappelÃÂ© et acceptÃÂ© entre les Parties que le protocole d'accord du 12 octobre 1999 prÃÂ©voyant une rÃÂ©munÃÂ©ration minimale des auteurs de 1,75 % (un virgule soixante-quinze pour cent) des recettes brutes encaissÃÂ©es (ci-aprÃÂ¨s ÃÂ«ÃÂ la RÃÂ©munÃÂ©ration SACDÃÂ ÃÂ») lors de l'exploitation des ÃÂuvres cinÃÂ©matographiques sous formes de VOD a ÃÂ©tÃÂ© dÃÂ©noncÃÂ© en 2009 par trois syndicats professionnels, rendant caduque l'application des dispositions dudit protocole d'accord ÃÂ  toute la profession.ÃÂ
+    -Concernant l'ÃÂ©ventuelle redevance devantªtre versÃÂ©e par DAILYMOTION  la SACD au titre de l'exploitation en VOD d'ÃÂuvres audiovisuelles, il est rappelÃÂ© et acceptÃÂ© entre les Parties que le protocole d'accord du 12 octobre 1999 prÃÂ©voyant une rÃÂ©munÃÂ©ration minimale des auteurs de 1,75 % (un virgule soixante-quinze pour cent) des recettes brutes encaissÃÂ©es (ci-aprÃÂ¨s « la RÃÂ©munÃÂ©ration SACD ») lors de l'exploitation des ÃÂuvres cinÃÂ©matographiques sous formes de VOD a©tÃÂ© dÃÂ©noncÃÂ© en 2009 par trois syndicats professionnels, rendant caduque l'application des dispositions dudit protocole d'accord  toute la profession.
 
 Aussi, il est convenu entre les Parties que le PARTENAIRE notifiera à DAILYMOTION (par courrier électronique à l'adresse suivante : partner-support@dailymotion.com) les Contenus à l'égard desquels, il n'y a pas lieu de soustraire la Rémunération SACD des sommes brutes encaissées, dans les cas où le PARTENAIRE est le mandataire d'un producteur, ou lui-même producteur, appartenant à un syndicat de producteurs ayant dénoncé le protocole ou membre d'aucun syndicat de producteurs et n'ayant pas adhéré individuellement au protocole.
 
@@ -323,8 +303,6 @@ Le PARTENAIRE reconnait également que (i) DAILYMOTION n'est pas un service de m
 
 Par les présentes, le PARTENAIRE reconnaît expressément que le Service, en tout ou partie (incluant notamment mais non limitativement le graphisme, les rubriques, les chaînes, le Player Vidéo, etc…), sur lequel les Contenus seront mis à la disposition du Public au titre des présentes sera utilisé en l'état, sous réserve des éventuelles modifications que DAILYMOTION pourra y apporter. A ce titre, il est donc entendu que le PARTENAIRE ne pourra demander une quelconque modification du Service.
 
-** **
-
 Le PARTENAIRE reconnaît et accepte que DAILYMOTION ne garantit en aucun cas un volume minimum de publicité ou de commandes associée aux Contenus ou aux Vidéos Tierces et en conséquence ne garantit aucun montant minimum de Recettes du Programme Partenaire à reverser au PARTENAIRE.
 
 DAILYMOTION, ses filiales, ses représentants, ses employés, ses mandataires et prestataires (« les Parties DM ») déclinent toute responsabilité, que ce soit expressément ou implicitement, dans quelque domaine que ce soit, y compris et notamment en matière de garantie d'adéquation du Service à un usage particulier ou de conformité à la description ou autres, et ce dans les limites de la législation en vigueur. Par ailleurs, il est entendu que le Site Dailymotion est en principe accessible 24/24h, 7/7j, sauf interruption, programmée ou non, pour les besoins de sa maintenance ou cas de force majeure. Le PARTENAIRE dégage DAILYMOTION de toute responsabilité à cet égard et renonce à toute réclamation et/ou procédure à son encontre de ce fait.
@@ -335,23 +313,13 @@ Les limitations de responsabilité de DAILYMOTION à l'égard du PARTENAIRE figu
 
 **Article 16 : INTEGRITE DES CONTENUS**
 
-** **
-
     DAILYMOTION s'engage à ne pas éditer, modifier, altérer de quelque manière que ce soit les Contenus proposés sur ou à partir de son Service. Par dérogation à ce qui précède, DAILYMOTION est autorisée à effectuer les compressions numériques et les stockages techniquement nécessaires aux besoins de son activité.
-
-** **
 
 **Article 17 : FORMAT ET QUALITE DES CONTENUS**
 
-** **
-
 De manière générale, les Contenus mis en ligne sur le Service par le PARTENAIRE devront présenter un niveau de qualité conforme à l'état de l'art et de la technique.
 
-** **
-
 **Format des Contenus** : le PARTENAIRE pourra mettre en ligne les Contenus sous l'un des formats numériques suivants : MPEG – 4, MPEG – 2, AVI, WMV.
-
-** **
 
 **Article 18 : MODIFICATION DES CONDITIONS**
 
@@ -359,13 +327,9 @@ DAILYMOTION peut modifier tout ou partie des Conditions, à tout moment et à sa
 
 **Article 19: CONFIDENTIALITE**
 
-** **
-
 Les Parties s'engagent en outre à considérer comme strictement confidentiels et à ne pas divulguer à quelque personne que ce soit, si ce n'est à ceux de leurs ayants-droits, dirigeants et salariés ou à tout conseil auquel ils pourraient avoir recours, pour autant que ces derniers soient soumis à une obligation de confidentialité que ce soit par l'effet de la loi ou d'un accord écrit, les documents et informations non publics concernant l'autre partie dont ils ont eu ou auront connaissance tant préalablement que postérieurement à la réalisation des Conditions et notamment les documents et informations relatifs aux domaines suivants : produits, clients, stratégie, développement, situation financière, accords commerciaux ou de partenariat.
 
 **Article 20 : DUREE ET RESILIATION**
-
-** **
 
 20.1 Les Conditions prennent effet à compter de la date de leur acceptation par le PARTENAIRE, et ce pour une durée indéterminée. Il est entendu que toute Partie sera libre de mettre fin à l'adhésion du PARTENAIRE au Programme Partenaire à tout moment par simple envoi de courrier électronique :
 
@@ -383,11 +347,7 @@ La résiliation sera effective 30 jours après l'envoi de la notification de ré
 
 20.5 Toutes les dispositions des présentes qui, par nature, se prolongent au-delà de la résiliation du Compte Partenaire restent effectives tant qu'elles ne sont pas exécutées et s'appliquent aux successeurs et ayants droit respectifs
 
-** **
-
 **Article 21 : DISPOSITIONS GENERALES**
-
-** **
 
 21.1         DAILYMOTION et le PARTENAIRE s'interdisent de céder tout ou partie de leurs droits et obligations procédant des Conditions à un quelconque tiers, toute tentative à cet effet étant nulle, étant entendu qu'un changement de contrôle d'une des Parties (notamment par opération de fusion, acquisition ou rachat de tout ou parties des actifs de la société concernée) ne serait pas concerné par cette interdiction.
 
@@ -455,9 +415,9 @@ DAILYMOTION autorise le PARTENAIRE à intégrer, sur le Territoire et pour la du
 
 Le PARTENAIRE pourra personnaliser le Widget et sélectionner les catégories de Contenus Dailymotion mis à disposition via cet outil comme suit :
 
-    -Le PARTENAIRE pourra customiser plusieurs ÃÂ©lÃÂ©ments affÃÂ©rents ÃÂ  la charte graphique et au design du Widget (tels que sa forme, les titres, la couleur et la taille de la police), dans la limite des options mises ÃÂ  disposition par DailymotionÃÂ ;ÃÂ
-    -Le PARTENAIRE pourra sÃÂ©lectionner les catÃÂ©gories de Contenus Widget (exempleÃÂ : sport, news, etcÃ¢ÂÂ¦) ÃÂ  mettre en avant sur les Sites du PARTENAIRE via le WidgetÃÂ
-    -Le PARTENAIRE pourra sÃÂ©lectionner la langue utilisÃÂ©e dans les Contenus Widget (en ce y compris les Contenus Promotionnels) ÃÂ  mettre en avant sur les Sites du PARTENAIRE.ÃÂ
+    -Le PARTENAIRE pourra customiser plusieurs éléments afférents à la charte graphique et au design du Widget (tels que sa forme, les titres, la couleur et la taille de la police), dans la limite des options mises à disposition par Dailymotion ;
+    -Le PARTENAIRE pourra sélectionner les catégories de Contenus Widget (exemple : sport, news, etc…) à mettre en avant sur les Sites du PARTENAIRE via le Widget
+    -Le PARTENAIRE pourra sélectionner la langue utilisée dans les Contenus Widget (en ce y compris les Contenus Promotionnels) à mettre en avant sur les Sites du PARTENAIRE.
 
 Les Contenus Widget seront sélectionnés automatiquement et mis à jour selon un algorithme à chaque actualisation par les utilisateurs de la page du Site du PARTENAIRE sur laquelle le Widget est intégré. A cet égard, le PARTENAIRE reconnait et accepte que DAILYMOTION n'assume aucune responsabilité concernant la sélection des Contenus Widget, en ce y compris les Contenus Promotionnels, mis en avant via le Widget sur les Sites du PARTENAIRE.
 
