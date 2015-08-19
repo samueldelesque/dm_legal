@@ -1,4 +1,5 @@
-**Conditions Générales d'Utilisation du Programme PARTENAIRE**
+Conditions Générales d'Utilisation du Programme PARTENAIRE
+==========================================================
 
 **LES PRÉSENTES CONDITIONS GÉNÉRALES D'UTILISATION (« CONDITIONS ») DU PROGRAMME PARTENAIRE, SOUMISES AU DROIT FRANÇAIS, ONT VOCATION À RÉGIR L'UTILISATION DU PROGRAMME PARTENAIRE DE DAILYMOTION ET TOUTE FONCTIONNALITÉ Y AFFERENT. VOTRE UTILISATION DU PROGRAMME PARTENAIRE, EN QUALITÉ DE PARTICULIER OU DE PROFESSIONNEL, EMPORTE VOTRE ACCEPTATION EXPRESSE ET SANS RÉSERVE DES CONDITIONS Y COMPRIS DES STIPULATIONS DE TOUTES NOTICES ("NOTICES") APPLICABLES AU SITE DAILYMOTION, INCLUANT NOTAMMENT LA (** [**CHARTE SUR LES DONNÉES PERSONNELLES**](http://www.dailymotion.com/fr/legal/privacy)**). SI VOUS ACCÉDEZ OU UTILISEZ LE SITE DAILYMOTION EN QUALITÉ DE PROFESSIONNEL, VOUS GARANTISSEZ À DAILYMOTION QUE VOUS DÉTENEZ l'INTÉGRALITÉ DES DROITS, DES AUTORISATIONS ET DES POUVOIRS NÉCESSAIRES POUR ACCEPTER LES CONDITIONS AU NOM DE LA SOCIÉTÉ, ASSOCIATION, PARTENAIRE OU TOUT AUTRE ENTITÉ POUR LAQUELLE VOUS UTILISEZ OU ACCÉDEZ AU PROGRAMME PARTENAIRE ET/OU CRÉEZ UN COMPTE SELON LES MODALITÉS CI-APRÈS. DANS CE CAS, VOTRE ACCÈS OU UTILISATION DU PROGRAMME PARTENAIRE EMPORTERA l'ACCEPTATION EXPRESSE ET SANS RÉSERVE DES CONDITIONS Y COMPRIS DES NOTICES PAR CETTE ENTITÉ.**
 
@@ -453,7 +454,7 @@ En supplément de toute obligation d'indemnisation d'ores et déjà mise à la c
 
 **SECTION G: DIVERS**
 
-Il est entendu que DAILUMOTION est libre de modifier tout ou partie des présentes, à tout moment et à sa entière discrétion, dans les conditions définies au sein de l'article 18 des Conditions.
+Il est entendu que DAILYMOTION est libre de modifier tout ou partie des présentes, à tout moment et à sa entière discrétion, dans les conditions définies au sein de l'article 18 des Conditions.
 
 Les termes définis dans le Contrat de Syndication auront le même sens dans les présentes Addendum sauf clause contraire.
 
