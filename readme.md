@@ -7,8 +7,8 @@ This projects aims to simplify and improve how Dailymotion's legal contracts are
 The process of updating/creating a contract is fairly simple:
 
 1. Legal team creates a file in the appropriate folder.
-The folder structure is _/[LANG]/[CATEGORY]/[CONTRACT_NAME].md_
-For instance, we have _/en/partner/self-billing.md_
+The folder structure is _contracts/[LANG]/[CATEGORY]/[CONTRACT_NAME].md_
+For instance, we have _contracts/en/partner/self-billing.md_
 
 2. Legal team opens a Jira ticket for developer to update contracts.
 
