@@ -1,4 +1,5 @@
-**Authorization of Self-Billing**
+Authorization of Self-Billing
+=============================
 
 1. Partner (whether an individual or a duly incorporated entity) hereby expressly authorizes DAILYMOTION to establish and issue on its behalf and for its account the relevant invoices of the payments due by DAILYMOTION under any agreement entered into by the Partner with DAILYMOTION.
 
