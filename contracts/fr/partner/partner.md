@@ -65,9 +65,9 @@ Le PARTENAIRE aura la faculté, au cas par cas et à son entière discrétion, (
 
 Si le PARTENAIRE est une personne physique, ce dernier garantit alors être majeur et juridiquement capable de contracter les présentes, selon la législation applicable dans son pays de résidence, étant entendu que toute utilisation du Programme PARTENAIRE ne répondant pas à ces critères cumulatifs est expressément interdite.
 
-    -Si le PARTENAIRE est une personne morale, ce dernier garantit que le représentant en charge de l’acceptation des présentes Conditions est dûment habilité aux fins des présentes et à agir au nom et pour le compte de l’entité juridique souhaitant bénéficier du Programme Partenaire. A cet égard, le PARTENAIRE reconnait accepter que les présentes Conditions s’appliquent à l’ensemble des organisations, sociétés, associations ou entités enregistrées comme PARTENAIRE dans les Comptes Partenaire.
+-Si le PARTENAIRE est une personne morale, ce dernier garantit que le représentant en charge de l’acceptation des présentes Conditions est dûment habilité aux fins des présentes et à agir au nom et pour le compte de l’entité juridique souhaitant bénéficier du Programme Partenaire. A cet égard, le PARTENAIRE reconnait accepter que les présentes Conditions s’appliquent à l’ensemble des organisations, sociétés, associations ou entités enregistrées comme PARTENAIRE dans les Comptes Partenaire.
 
-    -En acceptant les Conditions, le PARTENAIRE pourra directement avoir accès aux outils et fonctionnalités disponibles au sein du Programme Partenaire, étant cependant entendu que le PARTENAIRE ne saura prétendre à aucun partage des recettes générées par son utilisation desdits outils et fonctionnalités tant qu'il n'aura pas dument rempli le formulaire de paiement disponible via le Compte Partenaire Parent ou communiqué toute information demandée par DAILYMOTION.
+-En acceptant les Conditions, le PARTENAIRE pourra directement avoir accès aux outils et fonctionnalités disponibles au sein du Programme Partenaire, étant cependant entendu que le PARTENAIRE ne saura prétendre à aucun partage des recettes générées par son utilisation desdits outils et fonctionnalités tant qu'il n'aura pas dument rempli le formulaire de paiement disponible via le Compte Partenaire Parent ou communiqué toute information demandée par DAILYMOTION.
 
 2.2 Le PARTENAIRE garantit expressément communiquer des coordonnées et des informations exactes à DAILYMOTION, ainsi qu'à les mettre à jour au fur et à mesure des éventuels changements.
 
@@ -282,9 +282,9 @@ DAILYMOTION sera responsable du paiement des redevances dues aux sociétés de g
 
 En ce qui concerne les Outils De Mise à Disposition de Contenus Payants plus spécifiquement :
 
-    -Il est entendu que lesdites redevances SACEM-SDRM, si applicables, seront dÃÂ©duites des recettes brutes encaissÃÂ©es par DAILYMOTION lors du calcul des Recettes Nettes tel que dÃÂ©fini  l'article 6 des Conditions.
+-Il est entendu que lesdites redevances SACEM-SDRM, si applicables, seront dÃÂ©duites des recettes brutes encaissÃÂ©es par DAILYMOTION lors du calcul des Recettes Nettes tel que dÃÂ©fini  l'article 6 des Conditions.
 
-    -Concernant l'ÃÂ©ventuelle redevance devantªtre versÃÂ©e par DAILYMOTION  la SACD au titre de l'exploitation en VOD d'ÃÂuvres audiovisuelles, il est rappelÃÂ© et acceptÃÂ© entre les Parties que le protocole d'accord du 12 octobre 1999 prÃÂ©voyant une rÃÂ©munÃÂ©ration minimale des auteurs de 1,75 % (un virgule soixante-quinze pour cent) des recettes brutes encaissÃÂ©es (ci-aprÃÂ¨s « la RÃÂ©munÃÂ©ration SACD ») lors de l'exploitation des ÃÂuvres cinÃÂ©matographiques sous formes de VOD a©tÃÂ© dÃÂ©noncÃÂ© en 2009 par trois syndicats professionnels, rendant caduque l'application des dispositions dudit protocole d'accord  toute la profession.
+-Concernant l'ÃÂ©ventuelle redevance devantªtre versÃÂ©e par DAILYMOTION  la SACD au titre de l'exploitation en VOD d'ÃÂuvres audiovisuelles, il est rappelÃÂ© et acceptÃÂ© entre les Parties que le protocole d'accord du 12 octobre 1999 prÃÂ©voyant une rÃÂ©munÃÂ©ration minimale des auteurs de 1,75 % (un virgule soixante-quinze pour cent) des recettes brutes encaissÃÂ©es (ci-aprÃÂ¨s « la RÃÂ©munÃÂ©ration SACD ») lors de l'exploitation des ÃÂuvres cinÃÂ©matographiques sous formes de VOD a©tÃÂ© dÃÂ©noncÃÂ© en 2009 par trois syndicats professionnels, rendant caduque l'application des dispositions dudit protocole d'accord  toute la profession.
 
 Aussi, il est convenu entre les Parties que le PARTENAIRE notifiera à DAILYMOTION (par courrier électronique à l'adresse suivante : partner-support@dailymotion.com) les Contenus à l'égard desquels, il n'y a pas lieu de soustraire la Rémunération SACD des sommes brutes encaissées, dans les cas où le PARTENAIRE est le mandataire d'un producteur, ou lui-même producteur, appartenant à un syndicat de producteurs ayant dénoncé le protocole ou membre d'aucun syndicat de producteurs et n'ayant pas adhéré individuellement au protocole.
 
@@ -314,7 +314,7 @@ Les limitations de responsabilité de DAILYMOTION à l'égard du PARTENAIRE figu
 
 **Article 16 : INTEGRITE DES CONTENUS**
 
-    DAILYMOTION s'engage à ne pas éditer, modifier, altérer de quelque manière que ce soit les Contenus proposés sur ou à partir de son Service. Par dérogation à ce qui précède, DAILYMOTION est autorisée à effectuer les compressions numériques et les stockages techniquement nécessaires aux besoins de son activité.
+DAILYMOTION s'engage à ne pas éditer, modifier, altérer de quelque manière que ce soit les Contenus proposés sur ou à partir de son Service. Par dérogation à ce qui précède, DAILYMOTION est autorisée à effectuer les compressions numériques et les stockages techniquement nécessaires aux besoins de son activité.
 
 **Article 17 : FORMAT ET QUALITE DES CONTENUS**
 
@@ -334,37 +334,37 @@ Les Parties s'engagent en outre à considérer comme strictement confidentiels e
 
 20.1 Les Conditions prennent effet à compter de la date de leur acceptation par le PARTENAIRE, et ce pour une durée indéterminée. Il est entendu que toute Partie sera libre de mettre fin à l'adhésion du PARTENAIRE au Programme Partenaire à tout moment par simple envoi de courrier électronique :
 
-- à l'adresse renseignée par le PARTENAIRE au sein des informations relatives à son Compte Partenaire Parent, en cas de résiliation à la demande de DAILYMOTION ;
+-à l'adresse renseignée par le PARTENAIRE au sein des informations relatives à son Compte Partenaire Parent, en cas de résiliation à la demande de DAILYMOTION ;
 
--  à l'adresse official-termination@dailymotion.com, en cas de résiliation de l'adhésion du PARTENAIRE au Programme PARTENAIRE à la demande du PARTENAIRE.
+-à l'adresse official-termination@dailymotion.com, en cas de résiliation de l'adhésion du PARTENAIRE au Programme PARTENAIRE à la demande du PARTENAIRE.
 
 La résiliation sera effective 30 jours après l'envoi de la notification de résiliation.
 
-20.2  Il est entendu que chacune des deux Parties pourra cependant mettre fin, immédiatement et à tout moment, à l'activation de tout ou partie des différents outils proposés (pour tout ou partie des Comptes Partenaire) dans le cadre du Programme Partenaire. Par souci de clarté, si le PARTENAIRE n'accepte pas en tout ou partie les conditions applicables à des outils et/ou fonctionnalités particulières mises à disposition dans le cadre du Programme Partenaire, son seul recours consiste à ne pas utiliser les outils ou fonctionnalités correspondantes.
+20.2 Il est entendu que chacune des deux Parties pourra cependant mettre fin, immédiatement et à tout moment, à l'activation de tout ou partie des différents outils proposés (pour tout ou partie des Comptes Partenaire) dans le cadre du Programme Partenaire. Par souci de clarté, si le PARTENAIRE n'accepte pas en tout ou partie les conditions applicables à des outils et/ou fonctionnalités particulières mises à disposition dans le cadre du Programme Partenaire, son seul recours consiste à ne pas utiliser les outils ou fonctionnalités correspondantes.
 
-20.3  Il est entendu que chacune des deux Parties pourra supprimer à tout moment un ou plusieurs Comptes Partenaires Enfants et/ou désactiver l'adhésion de ces derniers au Programme Partenaire.
+20.3 Il est entendu que chacune des deux Parties pourra supprimer à tout moment un ou plusieurs Comptes Partenaires Enfants et/ou désactiver l'adhésion de ces derniers au Programme Partenaire.
 
-20.4         Immédiatement après la désactivation de l'adhésion au Programme Partenaire d'un Compte Partenaire Enfant particulier ou de la résiliation globale de l'adhésion du PARTENAIRE au Programme Partenaire,  le PARTENAIRE ne pourra plus bénéficier des dispositions du Programme Partenaire dans leur ensemble notamment en termes de rémunération, de mise en avant de ses Contenus au regard du Compte Partenaire Enfant concerné ou de l'ensemble des Comptes Partenaire le cas échéant. Il devra néanmoins respecter les Règles Dailymotion jusqu'à retrait par ses soins des Contenus hébergés sur le Service ou retrait du Player Vidéo qu'il aura exporté sur tout site autre que le Site Dailymotion.
+20.4 Immédiatement après la désactivation de l'adhésion au Programme Partenaire d'un Compte Partenaire Enfant particulier ou de la résiliation globale de l'adhésion du PARTENAIRE au Programme Partenaire,  le PARTENAIRE ne pourra plus bénéficier des dispositions du Programme Partenaire dans leur ensemble notamment en termes de rémunération, de mise en avant de ses Contenus au regard du Compte Partenaire Enfant concerné ou de l'ensemble des Comptes Partenaire le cas échéant. Il devra néanmoins respecter les Règles Dailymotion jusqu'à retrait par ses soins des Contenus hébergés sur le Service ou retrait du Player Vidéo qu'il aura exporté sur tout site autre que le Site Dailymotion.
 
 20.5 Toutes les dispositions des présentes qui, par nature, se prolongent au-delà de la résiliation du Compte Partenaire restent effectives tant qu'elles ne sont pas exécutées et s'appliquent aux successeurs et ayants droit respectifs
 
 **Article 21 : DISPOSITIONS GENERALES**
 
-21.1         DAILYMOTION et le PARTENAIRE s'interdisent de céder tout ou partie de leurs droits et obligations procédant des Conditions à un quelconque tiers, toute tentative à cet effet étant nulle, étant entendu qu'un changement de contrôle d'une des Parties (notamment par opération de fusion, acquisition ou rachat de tout ou parties des actifs de la société concernée) ne serait pas concerné par cette interdiction.
+21.1 DAILYMOTION et le PARTENAIRE s'interdisent de céder tout ou partie de leurs droits et obligations procédant des Conditions à un quelconque tiers, toute tentative à cet effet étant nulle, étant entendu qu'un changement de contrôle d'une des Parties (notamment par opération de fusion, acquisition ou rachat de tout ou parties des actifs de la société concernée) ne serait pas concerné par cette interdiction.
 
-21.2         Il est entendu et convenu que le droit applicable aux Conditions est le droit français. En cas de contestation liée à la validité, l'interprétation et/ou l'exécution des Conditions, les Parties font attribution exclusive de juridiction aux Tribunaux civils compétents de Paris.
+21.2 Il est entendu et convenu que le droit applicable aux Conditions est le droit français. En cas de contestation liée à la validité, l'interprétation et/ou l'exécution des Conditions, les Parties font attribution exclusive de juridiction aux Tribunaux civils compétents de Paris.
 
-21.3         Dans l'hypothèse d'un cas de force majeure (telle que celle-ci est définie par la jurisprudence de la Cour de Cassation), l'une des Parties ne pourrait pas exécuter une de ses obligations à la date prévue, aucune Recette du Programme Partenaire ne sera due au PARTENAIRE tant que les Parties ne pourront exécuter leurs obligations.
+21.3 Dans l'hypothèse d'un cas de force majeure (telle que celle-ci est définie par la jurisprudence de la Cour de Cassation), l'une des Parties ne pourrait pas exécuter une de ses obligations à la date prévue, aucune Recette du Programme Partenaire ne sera due au PARTENAIRE tant que les Parties ne pourront exécuter leurs obligations.
 
-21.4         Le partenariat conclu entre les Partie et objet des Condtions, ne s'apparente pas à une  relation d'agence ou joint-venture et sauf mention expresse dans les Conditions, les Parties ne peuvent pas contracter au nom et pour le compte de l'autre Partie.
+21.4 Le partenariat conclu entre les Partie et objet des Condtions, ne s'apparente pas à une  relation d'agence ou joint-venture et sauf mention expresse dans les Conditions, les Parties ne peuvent pas contracter au nom et pour le compte de l'autre Partie.
 
-21.5         Au cas où l'une quelconque des clauses des Conditions serait déclarée nulle ou inapplicable par quelque juridiction que ce soit et ce par une décision définitive, cette clause sera supprimée sans qu'il en résulte la nullité de l'ensemble des Conditions dont toutes les clauses demeureront pleinement en vigueur.
+21.5 Au cas où l'une quelconque des clauses des Conditions serait déclarée nulle ou inapplicable par quelque juridiction que ce soit et ce par une décision définitive, cette clause sera supprimée sans qu'il en résulte la nullité de l'ensemble des Conditions dont toutes les clauses demeureront pleinement en vigueur.
 
 Toutefois, dans le cas où la nullité ou l'inapplicabilité d'une clause des Conditions affecterait gravement l'équilibre juridique et/ou économique de ce dernier, les Parties conviennent de se rencontrer afin de substituer à ladite clause une clause valide qui lui soit aussi proche que possible tant sur le plan juridique qu'économique.
 
 21.6        Les Condtions constituent l'accord complet valable entre les Parties et remplacent tous les accords précédents, lettre d'intentions, projets antérieurs, engagements, représentations, garanties et arrangements précédents de quelque nature que ce soit (qu'ils soient écrits ou oraux) en relation avec l'objet des Conditions.
 
-21.7         En cas d'établissement de traduction des Conditions, il est entendu que la présente version Française des Conditions fera foi en tout état de cause, et ce y compris en cas de traduction fournie par Dailymotion.
+21.7 En cas d'établissement de traduction des Conditions, il est entendu que la présente version Française des Conditions fera foi en tout état de cause, et ce y compris en cas de traduction fournie par Dailymotion.
 
 _Modifié le 13 août 2015_
 
@@ -400,9 +400,9 @@ Par souci de clarté, il est entendu la résiliation de l'adhésion du PARTENAIR
 
 B.2 Chacune des Parties sera libre de résilier immédiatement le présent Addendum à tout moment et pour toute raison (y compris sans cause ou pour manquement de l'autre Partie aux obligations, représentations et garanties du présent Addendum) et ce, par simple envoi de courrier électronique :
 
-    -à l'adresse renseignée par le PARTENAIRE au sein de l'interface mise à sa disposition dans le cadre du Programme de Syndication, en cas de résiliation à la demande de DAILYMOTION ;
+-à l'adresse renseignée par le PARTENAIRE au sein de l'interface mise à sa disposition dans le cadre du Programme de Syndication, en cas de résiliation à la demande de DAILYMOTION ;
 
-    -à l'adresse publisher-termination@dailymotion.com, en cas de résiliation à la demande du PARTENAIRE.
+-à l'adresse publisher-termination@dailymotion.com, en cas de résiliation à la demande du PARTENAIRE.
 
 B.3 Toute résiliation des présentes Addendum sera sans conséquence sur les droits et obligations présents ou à venir qui seraient afférents à chacune des Parties dans le cadre des Conditions ou selon les lois applicables ainsi que sur toute disposition de ces présentes Addendum qui aurait par nature vocation à survivre au-delà de la résiliation de ces dernières.
 
@@ -416,9 +416,9 @@ DAILYMOTION autorise le PARTENAIRE à intégrer, sur le Territoire et pour la du
 
 Le PARTENAIRE pourra personnaliser le Widget et sélectionner les catégories de Contenus Dailymotion mis à disposition via cet outil comme suit :
 
-    -Le PARTENAIRE pourra customiser plusieurs éléments afférents à la charte graphique et au design du Widget (tels que sa forme, les titres, la couleur et la taille de la police), dans la limite des options mises à disposition par Dailymotion ;
-    -Le PARTENAIRE pourra sélectionner les catégories de Contenus Widget (exemple : sport, news, etc…) à mettre en avant sur les Sites du PARTENAIRE via le Widget
-    -Le PARTENAIRE pourra sélectionner la langue utilisée dans les Contenus Widget (en ce y compris les Contenus Promotionnels) à mettre en avant sur les Sites du PARTENAIRE.
+-Le PARTENAIRE pourra customiser plusieurs éléments afférents à la charte graphique et au design du Widget (tels que sa forme, les titres, la couleur et la taille de la police), dans la limite des options mises à disposition par Dailymotion ;
+-Le PARTENAIRE pourra sélectionner les catégories de Contenus Widget (exemple : sport, news, etc…) à mettre en avant sur les Sites du PARTENAIRE via le Widget
+-Le PARTENAIRE pourra sélectionner la langue utilisée dans les Contenus Widget (en ce y compris les Contenus Promotionnels) à mettre en avant sur les Sites du PARTENAIRE.
 
 Les Contenus Widget seront sélectionnés automatiquement et mis à jour selon un algorithme à chaque actualisation par les utilisateurs de la page du Site du PARTENAIRE sur laquelle le Widget est intégré. A cet égard, le PARTENAIRE reconnait et accepte que DAILYMOTION n'assume aucune responsabilité concernant la sélection des Contenus Widget, en ce y compris les Contenus Promotionnels, mis en avant via le Widget sur les Sites du PARTENAIRE.
 
