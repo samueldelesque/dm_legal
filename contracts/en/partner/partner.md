@@ -354,8 +354,8 @@ The Parties shall each keep all the information exchanged for the performance of
 
 20.1. The TOU shall enter into effect on the date of their acceptance by PARTNER and shall continue until terminated as defined herein. It is agreed between the Parties that either Party may terminate PARTNER's subscription to the PARTNER Program at any time by sending an email to:
 
-    -the email address given by PARTNER in its PARTNER Master Account information if termination by DAILYMOTION.
-    -the email address [official-termination@dailymotion.com](mailto:official-termination@dailymotion.com) if termination by PARTNER.
+-the email address given by PARTNER in its PARTNER Master Account information if termination by DAILYMOTION.
+-the email address [official-termination@dailymotion.com](mailto:official-termination@dailymotion.com) if termination by PARTNER.
 
 The termination will be effective 30 (thirty) days after sending the email notification.
 
@@ -430,10 +430,10 @@ DAILYMOTION authorizes PARTNER to make available the Widget, in the Territory, o
 
 PARTNER may customize the Widget and the categories of content that will be available through the Widget as follows:
 
-    -PARTNER may customize several elements related to the look and feel of the Widget (such as for example the layout, the titles, and the typeface's color and size), subject to the general Widget-wide framework that DAILYMOTION will provide to PARTNER;
+-PARTNER may customize several elements related to the look and feel of the Widget (such as for example the layout, the titles, and the typeface's color and size), subject to the general Widget-wide framework that DAILYMOTION will provide to PARTNER;
 
-    -PARTNER may select the categories of Widget Content (e.g.: news, sport, etc.)  to be featured on the PARTNER Website(s) through the Widget, subject to the categories selection framework that DAILYMOTION will provide to PARTNER ;
-    -PARTNER may select the language used in the Widget Content to be featured on the PARTNER Websites through the Widget.
+-PARTNER may select the categories of Widget Content (e.g.: news, sport, etc.)  to be featured on the PARTNER Website(s) through the Widget, subject to the categories selection framework that DAILYMOTION will provide to PARTNER ;
+-PARTNER may select the language used in the Widget Content to be featured on the PARTNER Websites through the Widget.
 
 The Third Party Videos and/or Content and Promoted Content to be featured on the PARTNER Website(s) through the Widget will be automatically selected and updated through an algorithm each time an end user refreshes the page onto which the Widget is embedded, and PARTNER acknowledges and agrees that DAILYMOTION shall not assume any responsibility regarding the selection of the Widget Content featured on the PARTNER Website(s).
 
