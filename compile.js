@@ -1,14 +1,9 @@
 var readdirp = require('readdirp'),
-    path = require('path'),
-    through2 = require('through2'),
     compiler = require('marked'),
     fs = require('fs-extra'),
-    es = require('event-stream'),
 
     inputDir = 'contracts',
     outputDir = 'html';
-
-    var Transform = require('stream').Transform;
 
 // fs.emptyDir(outputDir);
 
