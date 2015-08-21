@@ -415,8 +415,8 @@ For sake of clarity, the ADDITIONAL TERMS shall automatically terminate without 
 
 B.2 Either Party may immediately terminate the ADDITIONAL TERMS for any reason (including for convenience or for breach of the obligations, representations and warranties set out in the ADDITIONAL TERMS) at any time by sending an email to:
 
-    -the email address given by PARTNER in the contact information related to the PARTNER Program if terminated by DAILYMOTION; or
-    -the email address [publisher-termination@dailymotion.com](mailto:publisher-termination@dailymotion.com) if terminated by PARTNER.
+-the email address given by PARTNER in the contact information related to the PARTNER Program if terminated by DAILYMOTION; or
+-the email address [publisher-termination@dailymotion.com](mailto:publisher-termination@dailymotion.com) if terminated by PARTNER.
 
 B.3 Any termination of the ADDITIONAL TERMS shall be without prejudice to any other rights or remedies a Party may be entitled to under the TOU or at law and shall not affect any accrued rights or liabilities of either Party nor the coming into or continuance in force of any provision of the ADDITIONAL TERMS which is expressly intended to come into or continue in force on or after such termination.
 
