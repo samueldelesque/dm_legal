@@ -57,13 +57,21 @@ Unless otherwise specifically provided, and in addition to the other capitalized
 
 « **Video Player** »: means a technology developed and owned by DAILYMOTION, enabling viewing by streaming of content (including Content and Third Party Videos) uploaded and hosted on the Service, notably on the DAILYMOTION Site and outside the DAILYMOTION Site.
 
+** **
+
 **Section 1: PURPOSE**
+
+** **
 
 The purpose of the TOU is to specify the terms and conditions applicable to the tools and features made available to the PARTNER by DAILYMOTION in the PARTNER Program, being agreed that PARTNER shall be free to use all or part of such tools and features at its sole discretion.
 
 PARTNER may elect, on a case-by-case basis and at its sole discretion, (i) to communicate to the Public the Content free of charge through the Video Monetization Feature associating advertising to such Content, (ii) to communicate the Content to the Public in exchange of payment through the Paid Content Feature and/or (iii) to communicate Third Party Videos on PARTNER Website through the Video Player via the Website Monetization Feature. Through acceptance of the TOU, PARTNER is considered to have agreed and acknowledged all of the terms and conditions corresponding to each of the tools and features of the PARTNER Program contained herein.
 
+** **
+
 **Section 2: SUBSCRIPTION**
+
+** **
 
 2.1. By using the PARTNER Program, either as an individual or a corporate entity, PARTNER expressly agrees to be bound by the TOU as well as to all other DAILYMOTION policies, specifically including but not limited to [DAILYMOTION Site's general Terms of Use](http://www.dailymotion.com/legal/terms) and [Privacy Policy](http://www.dailymotion.com/legal/privacy) (all collectively referred to as the " **DAILYMOTION Policies**"). If the PARTNER does not agree to any of the terms herein stated or within the DAILYMOTION Policies, the PARTNER shall not use the PARTNER Program or the DAILYMOTION Site.
 
@@ -110,7 +118,11 @@ For the sake of clarity, if the export of Content through the Video Player is no
 
 Upon use by PARTNER of the tools and features related to the Paid Content Feature on one or more of its PARTNER Accounts, the following provisions shall apply:
 
+** **
+
 **Section 5: AUTHORIZATION AND LICENSE OF RIGHTS FOR THE USE OF THE TOOLS AND FEATURES AVAILABLE THROUGH THE PAID CONTENT FEATURE**
+
+** **
 
 PARTNER may use the Paid Content Feature developed by DAILYMOTION to offer to the Public the viewing of the Content in exchange for: (i) a payment per Content video, (ii) a payment per group of Content, or (iii) a 30-day subscription to the PARTNER Accounts, in accordance with the terms specified in the general terms and conditions available on the Service at the following URL address: [http://www.dailymotion.com/legal/termsofsales](http://www.dailymotion.com/legal/termsofsales).
 
@@ -122,7 +134,11 @@ PARTNER acknowledges and agrees that by using the Paid Content Feature an excerp
 
 The Parties agree that the number of devices through which the streaming of a purchased Content is allowed in the Paid Content Feature will be fixed at DAILYMOTION's sole discretion.
 
+** **
+
 **Section 6: FINANCIAL CONDITIONS APPLICABLE TO THE TOOLS AND FEATURES AVAILABLE THROUGH THE PAID CONTENT FEATURE**
+
+** **
 
 DAILYMOTION shall pay to PARTNER a revenue share equal to 70% (seventy percent) of the **Net Revenues related to the Paid Content Feature**.
 
@@ -134,7 +150,11 @@ DAILYMOTION shall pay to PARTNER a revenue share equal to 70% (seventy percent) 
 
 Upon use by PARTNER of the tools and features related to the Website Monetization Feature on one or more of the PARTNER Accounts, the following provisions shall apply:
 
+** **
+
 **Section 7: AUTHORIZATION AND LICENSE OF RIGHTS FOR THE USE OF THE TOOLS AND FEATURES AVAILABLE THROUGH THE WEBSITE MONETIZATION FEATURE**
+
+** **
 
 DAILYMOTION authorizes PARTNER to make available the Third Party Videos, in the Territory, exclusively through the Video Player, on web pages and/or part of services of PARTNER Website(s) or any Internet website(s) when the Syndication Key has been provided to PARTNER, as selected in PARTNER's discretion.
 
@@ -152,7 +172,11 @@ DAILYMOTION acknowledges and agrees that it is not authorized to sell advertisin
 
 DAILYMOTION warrants that the Advertising associated with the Content on the Service will be compliant with applicable laws.
 
+** **
+
 **Section 8: FINANCIAL CONDITIONS APPLICABLE TO THE USE OF THE TOOLS AND FEATURES AVAILABLE THROUGH THE WEBSITE MONETIZATION FEATURE**
+
+** **
 
 DAILYMOTION shall pay to the PARTNER a revenue share equal to 50% (fifty percent) of the **Net Advertising Revenues related to the Website Monetization Feature**.
 
@@ -160,7 +184,11 @@ The **Net Advertising Revenues related to the Website Monetization Feature** are
 
 For the sake of clarity, if the export of a Third Party Video through the Video Player is not made either (i) on a PARTNER Website duly registered in the PARTNER Accounts as indicated by DAILYMOTION or (ii) on an Internet website but with the Syndication Key having been duly associated in the export metadata of the Video Player, such export of a Third Party Video will not be taken into account for the calculation of In-Stream Advertising revenues to be shared with PARTNER.
 
+** **
+
 **Section 9: SPECIFIC WARRANTIES FOR THE USE OF THE WEBSITE MONETIZATION FEATURE**
+
+** **
 
 PARTNER acknowledges and agrees that DAILYMOTION, in accordance with its hosting provider status, shall not perform any prior monitoring of the user generated content available on the DAILYMOTION Site.  Therefore, the display of any user generated content selected by PARTNER and embedded into PARTNER Website(s) or any other Internet website will be at PARTNER's sole liability, being agreed that PARTNER shall indemnify DAILYMOTION and keep DAILYMOTION indemnified from and against all costs, expenses (including reasonable legal expenses) losses, damages and other liabilities (of whatever nature, whether contractual, tortuous or otherwise) suffered or incurred by DAILYMOTION and arising out of or in connection with any claim by any third party due to the selection and display by PARTNER of any user generated content embedded on PARTNER Website(s) or on any other Internet website through the Video Player.
 
@@ -176,11 +204,17 @@ PARTNER acknowledges and agrees that DAILYMOTION is not responsible for any data
 **TITLE 5: GENERAL PROVISIONS**
 
 
+** **
+
 **Section 10: AUTHORIZATION AND LICENSE OF RIGHTS FOR ALL THE FEATURES PROVIDED TO PARTNER UNDER THE PARTNER PROGRAM**
+
+** **
 
 In the event PARTNER uploads Content onto the Service,whether under the Video Monetization Feature or the Paid Content Feature, PARTNER expressly authorizes DAILYMOTION to reproduce the Content in its entirety and without alteration (with the exclusion of potential Advertising insertions under the Video Monetization Feature) for their communication to the Public on the Service and as necessary if applicable for the (i) compression and digitalization,(ii) hosting and storage of the Content, and/or (iii) for technical needs related to the streaming of the Content.
 
 The Parties agree that the rights granted under the TOU covers retroactively, if applicable, any exploitation of the Content on the Service, prior to the date of acceptation of the TOU. PARTNER hereby waives any rights to any claim it may be entitled to against DAILYMOTION and users of the Service arising from the exploitation or distribution of the Content on the Service before PARTNER's acceptance of the TOU and warrants DAILYMOTION thereof.
+
+** **
 
 **Section 11: PROMOTION**
 
@@ -192,11 +226,17 @@ Any use by PARTNER of DAILYMOTION's trademark or logo must be approved in advanc
 
 The Parties agree and acknowledge that each Party may issue a press release announcing their partnership, provided that the Parties have mutually agreed to the wording of any such press release.
 
+** **
+
 **Section 12: COMMON FINANCIAL CONDITIONS TO ALL THE FEATURES PROVIDED TO PARTNER UNDER THE PARTNER PROGRAM**
+
+** **
 
 The Net Advertising Revenues related to the Video Monetization Feature, the Net Revenues related to the Paid Content Feature and to the Net Advertising Revenues related to the Website Monetization Feature shall be jointly defined as "PARTNER Program Revenues".
 
 It is agreed that DAILYMOTION may deduct any amount from the PARTNER Program Revenues due (i) to the local authorities of any country as relevant and/or (ii) to enable the transfer and/or payment of any amounts due to PARTNER.
+
+** **
 
 **Section 13: TRACKING AND REPORTING REVENUE, INVOICING, AND PAYMENT**
 
@@ -204,13 +244,9 @@ It is agreed that DAILYMOTION may deduct any amount from the PARTNER Program Rev
 
 13.1. Tracking and Reporting Revenue
 
-** **
-
 PARTNER will be provided with an online interface in the PARTNER Accounts enabling PARTNER to track its monthly (i) Net Advertising Revenues related to the Video Monetization Feature, (ii) Net Revenues related to the Paid Content Feature and (iii) Net Advertising Revenues related to the Website Monetization Feature. The online interface available for each PARTNER Sub-Account will only include the data and figures related to the use of the features related to such account and Content hosted on it, but the online interface available from the PARTNER Master Account will compute the data and figures related to all the PARTNER Accounts owned by PARTNER.
 
 However, only the conclusive account statements available within 30 (thirty) days at the end of each month within the "Invoicing" section of the PARTNER Master Account for the previous months shall determine the billing and payment of PARTNER Program Revenues, being agreed that PARTNER agrees and acknowledges that the account statement and payment shall be deemed final and conclusive unless disputed in writing by PARTNER within 15 (fifteen) days after the posting of the account statement in the online interface for a given month.
-
-
 
 13.2. Invoicing
 
@@ -227,8 +263,6 @@ If the total amount billed is more than an amount equal to $100 (one hundred US 
 If PARTNER has duly filled in all mandatory information necessary for payment through the online interface of the PARTNER Master Account and accepted the corresponding self-billing authorization, DAILYMOTION shall issue an invoice within 30 (thirty) days following the end of the month in the name of and on behalf of PARTNER with respect to the authorization of self-billing under the condition that the total amount due with regards to the PARTNER Program Revenues is more than an amount equal to $100 (one hundred US dollars) whatever the currency of payment required by PARTNER for payment purpose, being agreed that any amounts not paid because shall carry forward on a monthly basis as long as the minimum threshold is not met.
 
 For the avoidance of doubt, self-billing of the PARTNER Program Revenues shall only be managed from the PARTNER Master Account.
-
-
 
 13.3. Payment
 
@@ -248,7 +282,11 @@ For the avoidance of doubt, self-billing of the PARTNER Program Revenues shall o
 
 PARTNER acknowledges and agrees that a withholding tax may be applied on the amounts paid by DAILYMOTION to PARTNER in the scope of the TOU. In this regard, it is PARTNER's responsibility to provide DAILYMOTION with a relevant certificate certified by PARTNER's home-country authorities, as soon as possible after its registration to the PARTNER Program to benefit from any exemption or reduction.
 
+** **
+
 **SECTION 14: INTELLECTUAL PROPERTY, WARRANTIES AND INDEMNIFICATION**
+
+** **
 
 14.1. Intellectual Property
 
@@ -292,9 +330,9 @@ DAILYMOTION shall be responsible for paying royalties to collecting societies de
 
 With regards to the Paid Content Feature specifically:
 
-    -the royalties inuring to the benefit of collecting societies, if applicable, shall be deducted from the gross revenues received by DAILYMOTION when calculating the net revenues as set forth under Section 6 of the TOU; and
+-the royalties inuring to the benefit of collecting societies, if applicable, shall be deducted from the gross revenues received by DAILYMOTION when calculating the net revenues as set forth under Section 6 of the TOU; and
 
-    -when applicable, regarding the potential royalties to be paid by DAILYMOTION to the SACD for the exploitation of VOD audiovisual works, it is agreed by the Parties that the protocol dated October 12th, 1999 providing for a minimum compensation of 1,75% of the received gross revenues for authors (the "SACD Compensation") for the exploitation of VOD audiovisual works has been waived in 2009 by three professional unions, making the application of the provisions of this protocol void for the whole industry.
+-when applicable, regarding the potential royalties to be paid by DAILYMOTION to the SACD for the exploitation of VOD audiovisual works, it is agreed by the Parties that the protocol dated October 12th, 1999 providing for a minimum compensation of 1,75% of the received gross revenues for authors (the "SACD Compensation") for the exploitation of VOD audiovisual works has been waived in 2009 by three professional unions, making the application of the provisions of this protocol void for the whole industry.
 
 Furthermore, it is agreed between the Parties that PARTNER shall notify DAILYMOTION (by e-mail to [partner-support@dailymotion.com](mailto:partner-support@dailymotion.com)) any Content from which it is not necessary to subtract the SACD Compensation to the gross received revenues, in the event PARTNER is the producer's representative, or himself the producer, or is a member of a union of producers having waived the protocol or is a member of a union of producers which has not individually adhered to the protocol.
 
@@ -304,7 +342,11 @@ It is agreed by the Parties that in the event a future legislation shall provide
 
 PARTNER agrees, at its own expense, to indemnify, hold harmless and, at DAILYMOTION's option, defend DAILYMOTION and its affiliates from and against any and all third party claims relating to losses, claims, damages, liabilities, judgments, settlements or costs and expenses (including lawyers' fees and expenses from litigation), associated with or arising out of DAILYMOTION's and/or its affiliates' (i) exploitation of the Content as specified herein, (ii) the use of the PARTNER Program contrary to the provisions contained herein, (iii) the infringement of any third party intellectual property rights arising from the use of PARTNER's brand and (iv) and/or any breach by PARTNER of PARTNER's representations and warranties contained herein.
 
+** **
+
 **Section 15: LEGAL DISCLAIMERS & LIMITATION OF LIABILITY**
+
+** **
 
 PARTNER agrees that the partner's use of the service and the PARTNER's account shall be at the PARTNER's sole risk and liability. In this regard, PARTNER is solely responsible for (i) its use of the Service and more specifically for the Content it stores and makes available to the public through the Service (ii) and the protection of its computer hardware against any virus or interruption.
 
@@ -324,11 +366,15 @@ Nothing in the TOU shall exclude or limit DAILYMOTION's liability for losses whi
 
 The limitations on DAILYMOTION's liability to PARTNER in this section shall apply whether or not DAILYMOTION has been advised of or should have been aware of the possibility of any such losses arising.
 
+** **
+
 **Section 16: CONTENT INTEGRITY**
 
 ** **
 
 DAILYMOTION undertakes to not edit, modify or otherwise alter the Content uploaded or available on the Service except that DAILYMOTION shall be entitled to compress or otherwise store the Content as is necessary for its activity.
+
+** **
 
 **Section 17: DELIVERY TECHNICAL SPECIFICATIONS**
 
@@ -338,15 +384,23 @@ PARTNER shall deliver the Content to DAILYMOTION with a level of quality in acco
 
 PARTNER shall provide the Content in one of the following digital formats: MPEG – 4, MPEG – 2, AVI, WMV.
 
+** **
+
 **Section 18: AMENDMENT OF THE TOU**
 
+** **
+
 DAILYMOTION may revise the TOU from time to time and the most current version will always be posted on a dedicated area of the DAILYMOTION Site. PARTNER should review the TOU on a regular basis.  Amendments to the TOU will not apply retroactively and will become effective 7 (seven) days after posting.  However, specific amendments to new functionality or legal amendments will be effective immediately upon notice. DAILYMOTION may also in its sole discretion notify PARTNER of material changes to the TOU by emailing the PARTNER with the new TOU to the email address associated with the PARTNER Master Account. By not terminating its subscription to the PARTNER Program after amendments become effective, PARTNER implicitly agrees to be bound by the amended terms. If PARTNER does not agree to the new terms, the PARTNER's only recourse is to terminate its subscription to the PARTNER Program. THE PARTNER'S FAILURE TO TERMINATE its subscription to the PARTNER Program FOLLOWING THE EFFECTIVE DATE OF THE AMENDMENTS TO THE TOU WILL CONSTITUTE BINDING ACCEPTANCE OF ALL AMENDMENTS.
+
+** **
 
 **Section 19: CONFIDENTIALITY**
 
 ** **
 
 The Parties shall each keep all the information exchanged for the performance of the TOU and their subject matter confidential and agree not to disclose such information, including, without limitation, documents and information related to products, clients, strategy, development, financial, business practices, to any third parties except as necessary to any business and legal representatives or as necessary to perform the obligations under the TOU.
+
+** **
 
 **Section 20: DURATION AND TERMINATION**
 
@@ -399,7 +453,11 @@ The ADDITIONAL TERMS shall be construed without prejudice to the DAILYMOTION Pol
 
 You will be referred as "YOU" or "PARTNER" as provided under the TOU above.
 
+** **
+
 **SECTION A: DEFINITIONS**
+
+** **
 
 **"Widget"** shall mean the widget to be integrated by PARTNER on the PARTNER Website(s) to enable the feature of Third Party Video(s) and/or Content (both as defined in the TOU) and/or Promoted Content as defined below.
 
@@ -407,7 +465,11 @@ You will be referred as "YOU" or "PARTNER" as provided under the TOU above.
 
 " **Widget Content**" shall mean collectively the Third Party Video(s), the Content and the Promoted Content made available via the Widget.
 
+** **
+
 **SECTION B: DURATION OF THE ADDITIONAL TERMS**
+
+** **
 
 B.1 The ADDITIONAL TERMS shall enter into effect on the date of acceptance of the TOU and shall continue for an indefinite period of time, unless earlier terminated as provided herein. However, it is expressly agreed that PARTNER shall benefit from the Widget only upon request.
 
@@ -439,7 +501,11 @@ The Third Party Videos and/or Content and Promoted Content to be featured on the
 
 PARTNER acknowledges and agrees that 5% (five percent) of the traffic generated by the Widget may be randomly selected and used for A/B testing purpose and will benefit for a user experience different than the rest of the traffic, being agreed DAILYMOTION will select the test to be run at its own discretion.
 
+** **
+
 **SECTION D: FINANCIAL CONDITIONS**
+
+** **
 
 D.1 DAILYMOTION shall pay to PARTNER a revenue share of 50% (fifty percent) of the Net Ad Revenues.
 
@@ -451,7 +517,11 @@ D.3 Terms and conditions applicable in connection to the tracking, reporting, in
 
 D.4 PARTNER further acknowledges and agrees that DAILYMOTION makes no representations concerning (i) the volume of advertising associated with the Widget and/or (ii) the volume of Promoted Content pushed in the Widget and/or (iii) a minimum amount of Net Ad Revenues or Net Promoted Revenues to be paid to PARTNER.
 
+** **
+
 **SECTION E: REPRESENTATIONS AND WARRANTIES**
+
+** **
 
 PARTNER represents and warrants to DAILYMOTION that it has the full corporate right, power and authority to enter into the ADDITIONAL TERMS.
 
@@ -461,11 +531,19 @@ PARTNER acknowledges and agrees that, in accordance with its hosting provider st
 
 PARTNER acknowledges and agrees that DAILYMOTION and/or the relevant end-user having uploaded it may remove at any time and at its sole discretion any Third Party Videos and/or Content as well as Promoted Content from the DAILYMOTION Site, being agreed that in such case the removed content will be not available for streaming anymore onto the PARTNER Website(s).
 
+** **
+
 **SECTION F: INDEMNITY**
+
+** **
 
 In addition of any indemnity granted to DAILYMOTION under the TOU, PARTNER agrees, at its own expense, to indemnify, hold harmless and, at DAILYMOTION's option, defend DAILYMOTION and its affiliates from and against any and all third party claims relating to losses, claims, damages, liabilities, judgments, settlements, costs and/or expenses (including lawyers' fees and expenses from litigation), associated with or arising out of (i) any breach by PARTNER of the obligations, representations and warranties contained herein and (ii) any use by PARTNER of the Widget.
 
+** **
+
 **SECTION G: GENERAL TERMS**
+
+** **
 
 DAILYMOTION may modify all or part of the ADDITIONAL TERMS, at any time and at its sole discretion in accordance with the provisions of Section 18 of the TOU.
 
