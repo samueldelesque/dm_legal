@@ -371,7 +371,16 @@ The termination will be effective 30 (thirty) days after sending the email notif
 
 21.7. In the event of translations of the TOU, it is agreed by the Parties that the English version of the TOU will prevail in any event, even if such translation is provided by DAILYMOTION.
 
+
+
+
 _Amended on August 13th 2015_
+
+
+
+
+** **
+
 
 **SCHEDULE 1**
 
