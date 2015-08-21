@@ -90,7 +90,11 @@ Furthermore, the user id and password which are necessary to access the PARTNER 
 
 Upon use by PARTNER of the tools and features related to the Video Monetization Feature on one or more of the PARTNER Accounts, the following provisions shall apply:
 
+** **
+
 **Section 3: AUTHORIZATION AND LICENSE OF RIGHTS FOR THE USE OF THE TOOLS AND FEATURES AVAILABLE THROUGH THE VIDEO MONETIZATION FEATURE**
+
+** **
 
 3.1. PARTNER grants to DAILYMOTION, for the term of the TOU and the Territory, and transferable to its affiliates, the **non-exclusive** rights to reproduce, represent, stream, replay (including offline display without permanent download), exploit, exhibit, show, market, distribute and to, modify and translate the Content strictly necessary for the purposes of the viewing of the Content on the Service by the Public
 
@@ -102,7 +106,11 @@ Furthermore, subject to the exclusivity granted to DAILYMOTION, PARTNER is prohi
 
 DAILYMOTION warrants that the Advertising associated with the Content on the Service will be compliant with applicable laws.
 
+** **
+
 **Section 4: FINANCIAL CONDITIONS APPLICABLE TO THE TOOLS AND FEATURES AVAILABLE THROUGH THE VIDEO MONETIZATION FEATURE**
+
+** **
 
 4.1. DAILYMOTION shall pay to PARTNER a revenue share equal to 50% (fifty percent) of the **Net Advertising Revenues related to the Video Monetization Feature**.
 
